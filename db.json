@@ -65,6 +65,17 @@
         "controlled"
       ],
       "correctIndex": 1
+    },
+    {
+      "prompt": "test",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "id": 7
     }
   ]
 }
